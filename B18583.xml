@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of James Fitz-Gerald Esq; counsellor at law; upon a petition to the Commons of England in Parliament assembled.</title>
+            <author>Fitzgerald, James, counsellor at law.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18583</idno><idno type="EEBO-CITATION">99885953</idno>
+  <idno type="VID">188572</idno>
+  <idno type="EEBO-PROQUEST">2240885369</idno>
+  
+            <idno type="STC">Wing C922</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[33]</idno>
+            <idno type="STC">ESTC R225225</idno>
+            <idno type="PROQUEST">ocm99885953</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885953e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188572)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of James Fitz-Gerald Esq; counsellor at law; upon a petition to the Commons of England in Parliament assembled.</title>
+                  <author>Fitzgerald, James, counsellor at law.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Estates (Law) --  Ireland --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:188572:1"/>
+            <head>The CASE OF JAMES FITZ-GERALD Esq; COUNSELLOR AT LAW; <hi>Ʋpon a</hi> PETITION <hi>to the</hi> Commons <hi>of</hi> England <hi>in</hi> Parliament <hi>Assembled.</hi>
+            </head>
+            <p>AFter the Defeat of the late King <hi>James</hi> at the Battel of the <hi>Boyne</hi> in <hi>Ireland,</hi> the Petitioner (according to His present Majesty's Proclamation issued soon after) took Protection; and as he was not in any Civil, or Military Office, or Commission before, so after taking Protection he lived peaceably and quietly at his own House at <hi>Awney,</hi> in the County of <hi>Limerick,</hi> where his Estate lay.</p>
+            <p>Some time after, the Frontier Lines of the <hi>English</hi> Quarters were ascertained by Proclamation, and the Petitioner's Place of Abode was within them: And again, by other Proclamations, the Frontier Lines were so altered, that the Petitioner's Habitation was without them, and they were to be treated as <hi>Rebels</hi> and <hi>Spies,</hi> who should by a time limited in the said Proclamation, be found without the said Lines. The Petitioner, in the mean time, not being able to remove his Goods and Family, was plundered by <hi>both Parties,</hi> by which he lost to the Value of above 4000 <hi>l.</hi> And by the Alteration of the Frontier Lines, the City of <hi>Limerick</hi> being the Place of Refuge next to him, he fled thither, and was there during the last Siege, and at the making of the Articles upon the Surrender of that Place, being an Inhabitant and Resident there.</p>
+            <p>Soon after, the Petitioner made Application to the Lords Justices and Council in <hi>Ireland,</hi> praying to be adjudged the Benefit of the said Articles; and, upon his Petition, had a Publick Hearing, took the Oath of Allegiance, and duly proved himself in <hi>Limerick</hi> at the Capitulation: But it was objected against him, That having taken Protection, he was excepted by the <hi>Second Article,</hi> and so excluded the Benefit of the said Articles: And upon this, the Lords Justices and Council adjudged the Petitioner not comprized in the said Articles; by means whereof the Petitioner, to this day, stands outlawed for High Treason, and his Estate seiz'd into the King's Hands, for no other Reason, but because he took Protection.</p>
+            <p>The Petitioner most humbly offers, and submits to the Consideration of this Just and Wise House, That the Judgment of the Council-Board at <hi>Dublin</hi> against him, in the Point of taking Protection, which seems to be grounded upon the <hi>Second</hi> of the Civil Articles of <hi>Limerick,</hi> is Errroneous.</p>
+            <p>To this End it will be necessary to consider the said Second Article (if it shall be thought fit by this Honourable House) which, as far it concerns the present Case, is in these Words following; <hi>viz.</hi>
+            </p>
+            <p>
+               <note place="margin">cond Article.</note>
+               <hi>All the Inhabitants, or Residents of</hi> Limerick, <hi>or any other Garrison now in the Possession of the</hi> Irish; <hi>and all Officers, and Soldiers now in Arms, under any Commission of King</hi> James, <hi>or those authorized by him, to grant the same in the several Counties of</hi> Limerick, Clare, Kerry, Cork, <hi>and</hi> Mayow, <hi>and all such as are under their Protection in the said Counties, or any of them; and all the Commission'd Officers in Their Majesties Quarters, that belong to the</hi> Irish <hi>Regiments now in being that are treated with <hi>(and who are not Prisoners of War, or have taken Protection)</hi> and who shall return, and submit to Their Majesties Obedience, and their, and every of their Heirs, shall hold, possess, and enjoy all, and every their Estates of Freehold and Inheritance, and all their <hi>Rights, Titles</hi> and <hi>Interests, Privi<g ref="char:EOLhyphen"/>leges</hi> and <hi>Immunities,</hi> which they, and every, or any of them held, enjoyed, or were rightfully, and lawfully intituled to, in the Reign of King</hi> Charles II. <hi>or at any time since, by the Laws and Statutes that were in force in the said Reign of King</hi> Charles <hi>the II.</hi> &amp;c.</p>
+            <p>By the true meaning of this Article, All that were then in <hi>Limerick,</hi> or under the Protection of the <hi>Irish,</hi> in the said Counties (being the <hi>Irish</hi> Quarters) are included without Exception, in the first Place; and next, the said Commission'd Officers in Their Majesties Quarters, that belong'd to the <hi>Irish</hi> Regiments then in being, that are treated with, <hi>and who are not Prisoners of War, or have taken Protection,</hi> were to have the like Benefit; which Qualifications and Exceptions, affix'd and conjoin'd to the said <hi>Com<g ref="char:EOLhyphen"/>mission'd Officers in Their Majesties Quarters,</hi> only to distinguish them, could not (as is humbly conceiv'd) in Reason or right Cor<g ref="char:EOLhyphen"/>struction be applied to the Petitioner, or any before-mentioned, in the said Second Article, who were no absent Officers that belong'd to any <hi>Irish</hi> Regiment that was treated with; being all of them in <hi>Limerick,</hi> and in the <hi>Irish</hi> Quarters, at the time of the Capitulation, and could not reasonably be supposed to be Their Majesties Prisoners, or in their Protection there, as some of the said <hi>Commission'd Officers</hi> might then well be Prisoners or Protectees in Their Majesties Quarters, and as in truth many then actually were, who being Their Majesties Subjects already, and in Their Majesties Quarters, they were not design'd to be capitulated for; which was the only occasion of adding the said Exceptions to exclude them: For it was never propos'd, during the whole Treaty of Peace, that the Petitioner for taking Protection, or any other in the <hi>Irish</hi> Quarters, should be excluded upon any Account whatsoever <hi>(not even Spies or Deserters)</hi> And they being pardon'd all Treasons, Capital Crimes, and Misdemeanors, by the said Articles, it cannot be well ima<g ref="char:EOLhyphen"/>gin'd, but that the taking Protection (had it been a Crime) was also pardon'd them; the contrary whereof was never heard of before the said Sentence, at the Council-Board, whereby those Words <hi>(or have taken Protection)</hi> have been interpreted and strained to a New Sense and Meaning, not thought of, or intended by the Makers of the said Articles.</p>
+            <p>And the Occasion of inserting in the Second Article those Words, <hi>(and who are not Prisoners of War, or have taken Protection)</hi> was truly this: Upon making the Agreement, or stateing the Heads of the said Articles, and enumerating the Persons to be treated for, the Lord <hi>Lucan,</hi> (<hi>alias</hi> Colonel <hi>Sarsfield</hi>) being present, said, That he sent some Officers into the <hi>English</hi> Quarters about some Affairs, and that he would have them included; which was agreed to, <hi>provided they were not Prisoners of War, or had not submitted and taken Protection.</hi>
+            </p>
+            <p>By the Construction put by the Council of <hi>Ireland</hi> upon those Words, the Petitioner hath been deprived of his Estate, denied the Benefit of the said Articles, and nothing left to support him and his Family. Wherefore he most humbly appeals to the COMMONS of <hi>ENGLAND</hi> for Redress against the said Erronious Proceedings, Humbly praying that it may be explain'd, and setled to what Persons the said Words <hi>(or have taken Protection)</hi> mentioned in the said second Article, do properly refer: And withal most humbly offers it to be considered, That by the Law of Nations, where any doubt arise about Words in Treaties, or Articles of Peace, they ought to be explained most beneficially for the Party in whose Favour such Articles were intended: And by the Municipal Laws of this Kingdom, the Grants of the King are to be expounded liberally, and with all imaginable Favour to the Subject, for the Honour and Dignity of the King, and for the Advantage, Freedom, and Properties of the People.</p>
+            <p>All which is most humbly referr'd, and submitted to the Great Wisdom and Judgment of this Honourable and August Assembly.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:188572:2"/>
+            <p>THE CASE OF <hi>James Fitz-Gerald,</hi> Esq; Counsellor at Law. <hi>March</hi> 12. 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
